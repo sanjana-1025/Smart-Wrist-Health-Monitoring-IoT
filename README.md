@@ -55,3 +55,11 @@ See the original report and extracted images in this repository. Add any origina
 ## Disclaimer
 
 This is an academic prototype, not a certified medical device. Sensor readings can be affected by wiring, placement, calibration, and environmental conditions.
+
+## Wokwi Simulation
+
+Explore the circuit and test the simulated Smart Wrist Health Monitoring System.
+
+[Run Smart Wrist Device Simulation](https://wokwi.com/projects/479430785601511425)
+
+Simulation source files are available in the [Simulation folder](Simulation/).
